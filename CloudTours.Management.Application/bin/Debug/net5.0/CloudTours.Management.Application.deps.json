@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CloudTours.Management.Application/1.0.0": {
+        "dependencies": {
+          "CloudTours.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CloudTours.Management.Application.dll": {}
+        }
+      },
+      "CloudTours/1.0.0": {
+        "runtime": {
+          "CloudTours.dll": {}
+        }
+      },
+      "CloudTours.Domain/1.0.0": {
+        "dependencies": {
+          "CloudTours": "1.0.0"
+        },
+        "runtime": {
+          "CloudTours.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudTours.Management.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudTours/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudTours.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

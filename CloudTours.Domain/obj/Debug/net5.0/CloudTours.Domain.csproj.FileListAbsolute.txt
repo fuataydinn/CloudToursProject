@@ -1,0 +1,15 @@
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\bin\Debug\net5.0\CloudTours.Domain.deps.json
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\bin\Debug\net5.0\CloudTours.Domain.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\bin\Debug\net5.0\CloudTours.Domain.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.AssemblyInfo.cs
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\refint\CloudTours.Domain.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\ref\CloudTours.Domain.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\bin\Debug\net5.0\CloudTours.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\bin\Debug\net5.0\CloudTours.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Domain\obj\Debug\net5.0\CloudTours.Domain.csproj.CopyComplete

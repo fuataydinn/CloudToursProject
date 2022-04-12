@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.DataAccess\\CloudTours.Management.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj",
+        "projectName": "CloudTours.Domain",
+        "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj",
+        "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\CloudTours.csproj": {
+                "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\CloudTours.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\CloudTours.Management.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\CloudTours.Management.Application.csproj",
+        "projectName": "CloudTours.Management.Application",
+        "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\CloudTours.Management.Application.csproj",
+        "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj": {
+                "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.DataAccess\\CloudTours.Management.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.DataAccess\\CloudTours.Management.DataAccess.csproj",
+        "projectName": "CloudTours.Management.DataAccess",
+        "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.DataAccess\\CloudTours.Management.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\CloudTours.Management.Application.csproj": {
+                "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Management.Application\\CloudTours.Management.Application.csproj"
+              },
+              "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\CloudTours.Persistence.csproj": {
+                "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\CloudTours.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\CloudTours.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\CloudTours.Persistence.csproj",
+        "projectName": "CloudTours.Persistence",
+        "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\CloudTours.Persistence.csproj",
+        "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj": {
+                "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours.Domain\\CloudTours.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\CloudTours.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\CloudTours.csproj",
+        "projectName": "CloudTours",
+        "projectPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\CloudTours.csproj",
+        "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faydn\\source\\repos\\Cloud Tours\\CloudTours\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

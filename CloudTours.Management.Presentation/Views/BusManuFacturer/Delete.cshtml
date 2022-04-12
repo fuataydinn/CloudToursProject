@@ -1,0 +1,29 @@
+﻿@model BusManuFacturerDTO
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Delete</h3>
+
+<div class="container row">
+    <div class="col-12 col-sm-8 col-md-6">
+        <div class="alert alert-warning">
+            Silmek istediğinize emin misiniz ? 
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <form method="post" asp-action="Delete">
+        <input type="hidden" asp-for="BusManuFacturerId"/>
+        <div class="mb-3">
+            <label>Durak Adı</label>
+            <div class="form-control">@Model.Name</div>
+        </div>
+        <div class="float-right">
+            <button class="btn btn-warning" type="submit">Onayla</button>
+            <a class="btn btn-success" asp-controller="BusManuFacturer" asp-action="Index">İptal</a>
+        </div>
+    </form>
+</div>

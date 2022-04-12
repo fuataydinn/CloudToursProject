@@ -1,0 +1,17 @@
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.Management.Application.deps.json
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.Management.Application.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.Management.Application.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.Domain.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.Domain.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.AssemblyInfo.cs
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.csproj.CopyComplete
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\refint\CloudTours.Management.Application.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\CloudTours.Management.Application.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\obj\Debug\net5.0\ref\CloudTours.Management.Application.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours.Management.Application\bin\Debug\net5.0\CloudTours.pdb

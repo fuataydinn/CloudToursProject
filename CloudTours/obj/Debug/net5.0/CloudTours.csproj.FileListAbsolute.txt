@@ -1,0 +1,12 @@
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\bin\Debug\net5.0\CloudTours.deps.json
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\bin\Debug\net5.0\CloudTours.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\bin\Debug\net5.0\CloudTours.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.AssemblyInfo.cs
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\refint\CloudTours.dll
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\CloudTours.pdb
+C:\Users\faydn\source\repos\Cloud Tours\CloudTours\obj\Debug\net5.0\ref\CloudTours.dll

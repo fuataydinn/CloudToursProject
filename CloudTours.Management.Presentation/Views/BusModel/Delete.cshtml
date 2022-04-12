@@ -1,0 +1,45 @@
+﻿@model BusModelDTO
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Model Güncelleme </h3>
+
+<div class="row">
+    <div class="col-12 col-md-8 col-sm-6">
+    <div class="alert alert-danger">
+    Bu Kayıt Silinecektir. Dikkat !!
+    </div>
+
+    </div>
+
+    </div>
+
+<div class="container row">
+    <div class="col-12 col-sm-8 col-md-6">
+        <form method="post" class="was-validated" asp-action="Delete" asp-controller="BusModel">
+
+            <div>
+                <input type="hidden" asp-for="@Model.BusModelId" />
+                <input type="hidden" asp-for="@Model.BusManuFacturerId" />
+                <div>
+                    <label asp-for="BusModelName">Model Adı</label>
+                    <input type="text" asp-for="BusModelName" class="form-control" placeholder="Model Adı Giriniz" required autocomplete="off" />
+
+                </div>
+
+                <div class="valid-feedback"></div>
+                <div class="invalid feedback"></div>
+
+            </div>
+         <div class="float-right">
+            <button class="btn btn-warning" type="submit">Onayla</button>
+            <a class="btn btn-success" asp-controller="BusModel" asp-action="Index">İptal</a>
+        </div>
+
+        </form>
+    </div>
+
+</div>
+
